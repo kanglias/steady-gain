@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2023-12-11",
+    "title": "中央经济工作会议",
+    "region": "CN",
+    "impact": "high",
+    "summary": "部署来年经济工作，政策定调会影响风险偏好。",
+    "sectors": null,
+    "symbols": null
+  },
+  {
+    "date": "2024-03-05",
+    "title": "十四届全国人大二次会议开幕",
+    "region": "CN",
+    "impact": "high",
+    "summary": "政府工作报告、预算和增长目标集中发布。",
+    "sectors": null,
+    "symbols": null
+  },
+  {
+    "date": "2024-07-15",
+    "title": "中共二十届三中全会召开",
+    "region": "CN",
+    "impact": "high",
+    "summary": "全会讨论进一步全面深化改革，政策预期集中。",
+    "sectors": null,
+    "symbols": null
+  },
+  {
+    "date": "2024-09-24",
+    "title": "央行宣布一揽子金融政策",
+    "region": "CN",
+    "impact": "high",
+    "summary": "降准、政策利率和存量房贷利率等金融措施同日释放。",
+    "sectors": ["银行", "非银金融", "房地产"],
+    "symbols": null
+  },
+  {
+    "date": "2024-12-11",
+    "title": "中央经济工作会议",
+    "region": "CN",
+    "impact": "high",
+    "summary": "年终政策定调，对来年财政与产业方向给出基调。",
+    "sectors": null,
+    "symbols": null
+  },
+  {
+    "date": "2025-03-05",
+    "title": "十四届全国人大三次会议开幕",
+    "region": "CN",
+    "impact": "high",
+    "summary": "全国两会开幕，增长目标和政策工具会在此前后交易。",
+    "sectors": null,
+    "symbols": null
+  },
+  {
+    "date": "2026-03-05",
+    "title": "全国两会开幕（惯例日期）",
+    "region": "CN",
+    "impact": "high",
+    "summary": "按历年惯例写的开幕日。若国务院调整会期，请改这份本地日历。",
+    "sectors": null,
+    "symbols": null
+  }
+]
